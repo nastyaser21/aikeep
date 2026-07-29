@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="110" viewBox="0 0 300 110">
+  <text x="150" y="34" font-family="Arial, 'Helvetica Neue', sans-serif" font-size="27" font-weight="800" fill="#3a3a3a" text-anchor="middle" letter-spacing="0.5">ФОНД СОДЕЙСТВИЯ</text>
+  <text x="150" y="64" font-family="Arial, 'Helvetica Neue', sans-serif" font-size="27" font-weight="800" fill="#3a3a3a" text-anchor="middle" letter-spacing="0.5">ИННОВАЦИЯМ</text>
+  <path d="M 20 78 Q 150 118 280 78 L 280 84 Q 150 124 20 84 Z" fill="#e6e6e6"/>
+  <path d="M 25 76 Q 150 110 275 76 L 275 90 Q 150 124 25 90 Z" fill="#3ea6dc"/>
+  <path d="M 35 84 Q 150 112 265 84 L 265 96 Q 150 124 35 96 Z" fill="#e2312d"/>
+</svg>
